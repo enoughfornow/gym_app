@@ -7,3 +7,6 @@ export * from './HorizontalScrollbar';
 export * from './BodyPart';
 export * from './Exercises';
 export * from './ExerciseCard';
+export * from './Detail';
+export * from './ExerciseVideos';
+export * from './SimilarExercises';
