@@ -16,12 +16,12 @@ export const Navbar = () => {
         justifyContent: 'none',
       }}
       px="20px">
-      <Link to="/">
+      <Link to="/gym_app">
         <img src={Logo} alt="logo" style={{ width: '48px', height: '48px', margin: '0 20px' }} />
       </Link>
       <Stack direction="row" gap="40px" fontSize="24px" alignItems="flex-end">
         <Link
-          to="/"
+          to="/gym_app"
           style={{ textDecoration: 'none', color: '#3A1212', borderBottom: '3px solid #FF2625' }}>
           Home
         </Link>
