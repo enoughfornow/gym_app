@@ -10,3 +10,4 @@ export * from './ExerciseCard';
 export * from './Detail';
 export * from './ExerciseVideos';
 export * from './SimilarExercises';
+export * from './Loader';

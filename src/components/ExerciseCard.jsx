@@ -45,4 +45,4 @@ export const ExerciseCard = ({ exercise }) => {
   );
 };
 
-export default ExerciseCard;
+
